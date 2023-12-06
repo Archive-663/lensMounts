@@ -1,8 +1,8 @@
 ## Micro Four-Thirds Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![MFT_1](https://github.com/Archive-663/lensMounts/blob/main/MFT/ASSETS/mountLens_MFT_01.jpg)
+![MFT_2](https://github.com/Archive-663/lensMounts/blob/main/MFT/ASSETS/mountLens_MFT_02.jpg)
+![MFT_3](https://github.com/Archive-663/lensMounts/blob/main/MFT/ASSETS/mountLens_MFT_03.jpg)
 
 ### Features:
 - Lens Mount
