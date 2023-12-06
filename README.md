@@ -4,7 +4,7 @@
 
 ### In this repository:
 - A variety of lens mounts, body mounts, body caps, and rear lens caps
-- Available in: Canon EF, FD, RF; Deckel; Fuji X; Leica M; M42; Mamiya 645; Micro Four-Thirds; Nikon F, Z; Pentacon Six; Sony E
+- Available in: Canon EF, FD, RF, Deckel, Fuji X, Leica M, M42, Mamiya 645, Micro Four-Thirds, Nikon F, Z, Pentacon Six, Sony E
 
 ### Background Story:
 I started designing lens adapters in 2019 and have slowly built a small collection of lens mounts, body mounts, and assorted caps to use in my designs. I wanted to share them with you all so that if there's something I haven't designed yet, or you're not happy with something that's already out there you can design something yourself. 
