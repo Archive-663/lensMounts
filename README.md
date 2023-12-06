@@ -1,6 +1,6 @@
 # Lot no. 013 | A Collection of Lens Mounts
 
-![productShot001](https://github.com/Archive-663/samyang7_5mm/blob/main/ASSETS/PRODUCT/sam7_5_product%20(13).jpg)
+![productShot001](https://github.com/Archive-663/lensMounts/blob/main/Nikon%20F/ASSETS/mountLens_nikonF_01.jpg)
 
 ### In this repository:
 - A variety of lens mounts, body mounts, body caps, and rear lens caps
