@@ -1,8 +1,9 @@
 ## Pentacon Six Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![P6_1](https://github.com/Archive-663/lensMounts/blob/main/Pentacon%20Six/ASSETS/mountLens_P6_01.jpg)
+![P6_2](https://github.com/Archive-663/lensMounts/blob/main/Pentacon%20Six/ASSETS/mountLens_P6_02.jpg)
+![P6_3](https://github.com/Archive-663/lensMounts/blob/main/Pentacon%20Six/ASSETS/mountLens_P6_03.jpg)
+![P6_4](https://github.com/Archive-663/lensMounts/blob/main/Pentacon%20Six/ASSETS/mountLens_P6_04.jpg)
 
 ### Features:
 - Body Mount with Breechlock
