@@ -1,8 +1,9 @@
 ## Canon FD Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![canonFD_1](https://github.com/Archive-663/lensMounts/blob/main/Canon%20FD/ASSETS/mountLens_canonFD_01.jpg)
+![canonFD_2](https://github.com/Archive-663/lensMounts/blob/main/Canon%20FD/ASSETS/mountLens_canonFD_02.jpg)
+![canonFD_3](https://github.com/Archive-663/lensMounts/blob/main/Canon%20FD/ASSETS/mountLens_canonFD_03.jpg)
+![canonFD_4](https://github.com/Archive-663/lensMounts/blob/main/Canon%20FD/ASSETS/mountLens_canonFD_04.jpg)
 
 ### Features:
 - Lens and Body Mount
