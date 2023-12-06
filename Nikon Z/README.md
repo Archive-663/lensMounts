@@ -1,8 +1,8 @@
 ## Nikon Z Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![nikonZ_1](https://github.com/Archive-663/lensMounts/blob/main/Nikon%20Z/ASSETS/mountLens_nikonZ_01.jpg)
+![nikonZ_2](https://github.com/Archive-663/lensMounts/blob/main/Nikon%20Z/ASSETS/mountLens_nikonZ_02.jpg)
+![nikonZ_3](https://github.com/Archive-663/lensMounts/blob/main/Nikon%20Z/ASSETS/mountLens_nikonZ_03.jpg)
 
 ### Features:
 - Lens Mount
