@@ -1,8 +1,10 @@
 ## Deckel Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![deckel_1](https://github.com/Archive-663/lensMounts/blob/main/Deckel/ASSETS/mountLens_DKL_01.jpg)
+![deckel_2](https://github.com/Archive-663/lensMounts/blob/main/Deckel/ASSETS/mountLens_DKL_02.jpg)
+![deckel_3](https://github.com/Archive-663/lensMounts/blob/main/Deckel/ASSETS/mountLens_DKL_03.jpg)
+![deckel_4](https://github.com/Archive-663/lensMounts/blob/main/Deckel/ASSETS/mountLens_DKL_04.jpg)
+![deckel_5](https://github.com/Archive-663/lensMounts/blob/main/Deckel/ASSETS/mountLens_DKL_05.jpg)
 
 ### Features:
 - Body Mount with Lens Lock
