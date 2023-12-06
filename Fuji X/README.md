@@ -1,8 +1,8 @@
 ## Fuji X Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![fujiX_1](https://github.com/Archive-663/lensMounts/blob/main/Fuji%20X/ASSETS/mountLens_fujiX_01.jpg)
+![fujiX_2](https://github.com/Archive-663/lensMounts/blob/main/Fuji%20X/ASSETS/mountLens_fujiX_02.jpg)
+![fujiX_3](https://github.com/Archive-663/lensMounts/blob/main/Fuji%20X/ASSETS/mountLens_fujiX_03.jpg)
 
 ### Features:
 - Lens Mount
