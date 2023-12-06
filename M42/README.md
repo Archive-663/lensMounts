@@ -1,8 +1,8 @@
 ## M42 Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![M42_1](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_01.jpg)
+![M42_2](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_02.jpg)
+![M42_3](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_03.jpg)
 
 ### Features:
 - Body Mount with adjustable thread for aligning lens
