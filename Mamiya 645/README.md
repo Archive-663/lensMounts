@@ -1,8 +1,9 @@
 ## Mamiya 645 Mount
 
-![KFS_canonEF_1](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF.jpg)
-![KFS_canonEF_2](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_1.jpg)
-![KFS_canonEF_3](https://github.com/Archive-663/kodakFunsaver/blob/main/ASSETS/kodakFunsaver_canonEF_2.jpg)
+![M645_1](https://github.com/Archive-663/lensMounts/blob/main/Mamiya%20645/ASSETS/mountLens_M645_01.jpg)
+![M645_2](https://github.com/Archive-663/lensMounts/blob/main/Mamiya%20645/ASSETS/mountLens_M645_02.jpg)
+![M645_3](https://github.com/Archive-663/lensMounts/blob/main/Mamiya%20645/ASSETS/mountLens_M645_03.jpg)
+![M645_4](https://github.com/Archive-663/lensMounts/blob/main/Mamiya%20645/ASSETS/mountLens_M645_04.jpg)
 
 ### Features:
 - Body Mount with simple Lens Lock
