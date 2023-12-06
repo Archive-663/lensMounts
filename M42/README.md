@@ -3,6 +3,7 @@
 ![M42_1](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_01.jpg)
 ![M42_2](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_02.jpg)
 ![M42_3](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_03.jpg)
+![M42_4](https://github.com/Archive-663/lensMounts/blob/main/M42/ASSETS/mountLens_M42_04.jpg)
 
 ### Features:
 - Body Mount with adjustable thread for aligning lens
